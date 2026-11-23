@@ -46,10 +46,6 @@ orizontal di tengah. |
 | `java.awt.event.MouseAdapter` | Adapter class | `mouseEntered()` dan `mouseExited()` untuk efek hover pada tombol. |
 | `java.awt.event.WindowAdapter` | Adapter class | `windowClosing()` untuk dialog konfirmasi saat menutup jendela. |
 
-## Isi Repositori
-
-- `BiodataApp.java`: kode program
-- `README.md`: dokumentasi ini
-
+### Dokumentasi hasil program yang sudah dibuat
 <img width="538" height="485" alt="image" src="https://github.com/user-attachments/assets/0969b624-2fad-4fd3-a067-3a4b8d53918d" />
 
